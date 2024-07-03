@@ -27,6 +27,6 @@ int main() {
         printf("You lost!\n");
     }
 
-    return 0;
+   return 0;
 }
 
